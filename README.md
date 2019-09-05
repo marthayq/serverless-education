@@ -12,7 +12,7 @@ These example applications are designed to help learners to practice and master 
 |Python Practice by [Ourstress](https://github.com/Ourstress)           | [Demo](https://pw1o5ynfq8.execute-api.us-east-1.amazonaws.com/default/doctestWithTabs)      |  [Single File](https://github.com/Ourstress/lambdaFunctions/blob/master/doctestActivityWithTabs.py) |
 |Character Replacement using Node runtime by [Ourstress](https://github.com/Ourstress)  | [Demo](https://j30d9ve863.execute-api.us-east-1.amazonaws.com/default/emojiReplacer)      |   [Single File](https://github.com/Ourstress/lambdaFunctions/blob/master/emojiReplacer.js) |
 |HTML Practice - by [Ourstress](https://github.com/Ourstress)  | [Demo](https://0vww2yw6y1.execute-api.us-east-1.amazonaws.com/default/fiveQuestionsHtmlActivity)      |   [Single File](https://github.com/Ourstress/lambdaFunctions/blob/master/htmlActivity.py) |
-|TBA  | Demo      |   Source |
-|TBA  | Demo      |   Source |
-|TBA  | Demo      |   Source |
-|TBA  | Demo      |   Source |
+|Vue  | Demo      |   Source |
+|React  | Demo      |   Source |
+|Firebase  | Demo      |   Source |
+|AWS Lambda  | Demo      |   Source |
