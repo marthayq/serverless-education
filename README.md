@@ -8,7 +8,7 @@ These example applications are designed to help learners to practice and master 
 | Javascript         |[Aishwarya26l](https://github.com/Aishwarya26l)| [Demo](https://ak0y53o2c4.execute-api.us-east-1.amazonaws.com/default/jsCodeForTest) | [Source](https://github.com/Aishwarya26l/jestRunner-edit-source-code)         |
 | Javascript Test Coverage  | [Aishwarya26l](https://github.com/Aishwarya26l)   | [Demo](https://782y5jejz5.execute-api.us-east-1.amazonaws.com/default/jestRunner)      |   [Source](https://github.com/Aishwarya26l/jestRunner) ||
 | Python with Unittests      | [Aishwarya26l](https://github.com/Aishwarya26l)        | [Demo](https://dmvd8lmqa9.execute-api.us-east-1.amazonaws.com/default/pythonTestingSuite)      |  [Source](https://github.com/Aishwarya26l/pythonTestingSuite)||
-|Python with Doctests    |  [Ourstress](https://github.com/Ourstress)        | [Demo](https://pw1o5ynfq8.execute-api.us-east-1.amazonaws.com/default/doctestWithTabs)      |  [Single File](https://github.com/Ourstress/lambdaFunctions/blob/master/doctestActivity2.py) ||
+|Python with Doctests    |  [Ourstress](https://github.com/Ourstress)        | [Demo](https://lx09eyssj6.execute-api.us-east-1.amazonaws.com/default/doctestPythonLearning)      |  [Single File](https://github.com/Ourstress/lambdaFunctions/blob/master/doctestActivity2.py) ||
 |Write More Pythonic Code  |  [Ourstress](https://github.com/Ourstress)  | [Demo](https://qkfgaek7c4.execute-api.us-east-1.amazonaws.com/default/pythonicCode)      |   [Single File](https://github.com/Ourstress/lambdaFunctions/blob/master/pythonicCodeActivity.py) ||
 | Jupyter Notebooks  |     |  Demo     |  Source ||
 | AWS Lambda  |   | Demo      |   Source ||
